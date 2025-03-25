@@ -1,4 +1,7 @@
-public class Psclista012025 {
+package com.mycompany.psclista012025;
+import java.util.Scanner;
+
+public class Q5Lista2 {
     
     public static void main(String[] args) {
         
