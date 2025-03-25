@@ -1,7 +1,7 @@
 package com.mycompany.psclista012025;
 import java.util.Scanner;
 
-public class Psclista012025 {
+public class Q1Lista2 {
     
     public static void main(String[] args) {
         
